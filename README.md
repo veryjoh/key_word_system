@@ -1,2 +1,1 @@
-# g.o.d
-keyword based system
+# keyword based system
